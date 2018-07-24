@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/beerbar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/beerbar-cms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/beerbar-cms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/beerbar-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/beerbar-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/beerbar-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/beerbar-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/beerbar-ucenter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/beerbar-upms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/beerbar-upms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/beerbar-upms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/beerbar-upms/ear" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/beerbar-upms/ejbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/beerbar-upms/primary-source" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/beerbar-upms/projects" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/beerbar-upms/projects/logging" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/beerbar-upms/servlets" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/beerbar-upms/servlets/servlet" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CodingBeerBar.iml" filepath="$PROJECT_DIR$/.idea/CodingBeerBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beerbar-cms/beerbar-cms.iml" filepath="$PROJECT_DIR$/beerbar-cms/beerbar-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beerbar-common/beerbar-common.iml" filepath="$PROJECT_DIR$/beerbar-common/beerbar-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beerbar-pay/beerbar-pay.iml" filepath="$PROJECT_DIR$/beerbar-pay/beerbar-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beerbar-upms/beerbar-upms.iml" filepath="$PROJECT_DIR$/beerbar-upms/beerbar-upms.iml" />
+    </modules>
+  </component>
+</project>

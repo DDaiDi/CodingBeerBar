@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="beerbar-upms:war">
+    <output-path>$PROJECT_DIR$/beerbar-upms/target</output-path>
+    <root id="archive" name="beerbar-upms.war">
+      <element id="artifact" artifact-name="beerbar-upms:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="beerbar-common:war">
+    <output-path>$PROJECT_DIR$/beerbar-common/target</output-path>
+    <root id="archive" name="beerbar-common.war">
+      <element id="artifact" artifact-name="beerbar-common:war exploded" />
+    </root>
+  </artifact>
+</component>
